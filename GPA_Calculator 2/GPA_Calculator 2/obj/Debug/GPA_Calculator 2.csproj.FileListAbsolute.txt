@@ -1,0 +1,10 @@
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\bin\Debug\GPA_Calculator 2.exe.config
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\bin\Debug\GPA_Calculator 2.exe
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\bin\Debug\GPA_Calculator 2.pdb
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\obj\Debug\GPA_Calculator 2.csproj.AssemblyReference.cache
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\obj\Debug\GPA_Calculator_2.Form1.resources
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\obj\Debug\GPA_Calculator_2.Properties.Resources.resources
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\obj\Debug\GPA_Calculator 2.csproj.GenerateResource.cache
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\obj\Debug\GPA_Calculator 2.csproj.CoreCompileInputs.cache
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\obj\Debug\GPA_Calculator 2.exe
+C:\Users\awadallah\source\repos\GPA_Calculator 2\GPA_Calculator 2\obj\Debug\GPA_Calculator 2.pdb
